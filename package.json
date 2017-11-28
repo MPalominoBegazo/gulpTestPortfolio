@@ -1,0 +1,21 @@
+{
+  "name": "gulpPortfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "crlab-gulp-combine-media-queries": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-git-push": "^1.0.1",
+    "gulp-minify-html-2": "^1.0.0",
+    "i": "^0.3.6",
+    "npm": "^5.5.1"
+  }
+}
